@@ -48,7 +48,7 @@ public class Qualification {
 	 * od czasu zatrudnienia
 	 */
 	public int getPractice(String firstName, String lastName) {
-		date = worker.getDateZ(firstName, lastName);
+		date = worker.getDateEmployed(firstName, lastName);
 		practice = (isYearNow() * 12 + isMonthNow()) - (date.getYear() * 12 + date.getMonth());
 		return practice;
 	}

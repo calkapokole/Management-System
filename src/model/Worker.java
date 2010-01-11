@@ -1,15 +1,14 @@
 package model;
 
 public class Worker extends User {
-	public Date dateZ;
 	public boolean status;
 	public Worker worker;
-	public Worker(String firstName, String lastName) {
-		super(firstName, lastName);
+	public Worker(String firstName, String lastName, Date employed) {
+		super(firstName, lastName, employed);
 	}
 	
-	public Date getDateZ(String firstName, String lastName) {
-		return dateZ;
+	public Date getDateEmployed(String firstName, String lastName) {
+		return this.employed;
 	}
 	
 	public boolean getStatus(String firstName, String lastName) {
