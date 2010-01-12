@@ -6,8 +6,9 @@ public class Project {
 	private Date taken;
 	private Date deadline;
 	private String qualification;
-	private int godzin; // Zakladany czas jaki trzeba bedzie poswiecic 
-						// na ten projekt na jednego pracownika 
+	private int godzin; // Zakladany czas jaki trzeba bedzie poswiecic
+
+	// na ten projekt na jednego pracownika
 
 	public Project(String name, String companyName, Date taken, Date deadline) {
 		this.name = name;
@@ -15,7 +16,7 @@ public class Project {
 		this.taken = taken;
 		this.deadline = deadline;
 	}
-	
+
 	public String getName() {
 		return this.name;
 	}
@@ -31,11 +32,11 @@ public class Project {
 	public Date getDeadline() {
 		return this.deadline;
 	}
-	
+
 	public String getQualification() {
 		return this.qualification;
 	}
-	
+
 	public int getGodzin() {
 		return this.godzin;
 	}

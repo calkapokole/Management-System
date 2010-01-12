@@ -1,8 +1,11 @@
 package model;
 
 public class Manager extends User {
-	public Manager(String firstName, String lastName, Date employed) {
-		super(firstName, lastName, employed);
+	public Manager() {
 	}
-	
+
+	public Manager(int type, String firstName, String lastName, Date employed) {
+		super(type, firstName, lastName, employed);
+	}
+
 }

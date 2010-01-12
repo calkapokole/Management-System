@@ -3,6 +3,7 @@ package applet;
 import javax.swing.JApplet;
 
 import database.*;
+import model.*;
 
 
 public class LoginInterface extends JApplet {
@@ -19,7 +20,14 @@ public class LoginInterface extends JApplet {
 
 		login = this.getLogin();
 		password = this.getPassword();
-		return connection.validatePassword(login, password);
+		if (connection.validatePassword(login, password)) {
+			UserFactory uFactory = new UserFactory();
+			InterfaceFactory iFactory = new InterfaceFactory();
+			
+			iFactory.createInterface(connection, uFactory.createUser(connection, login));
+			return true;
+		}
+		return false;
 	}
 
 	private String getLogin() {
