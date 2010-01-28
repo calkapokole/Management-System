@@ -1,45 +1,37 @@
 package applet;
 
-import javax.swing.JApplet;
+import database.DatabaseManager;
 
-import database.*;
-import model.*;
-
-
-public class LoginInterface extends JApplet {
-	private static final long serialVersionUID = 1L;
-	private DatabaseConnection connection;
+public class LoginInterface {
+	private DatabaseManager manager;
 
 	public LoginInterface() {
-		this.connection = DatabaseConnection.establishConnection();
+		this.manager = DatabaseManager.getInstance();
 	}
 
-	public boolean login() {
-		String login;
-		String password;
+	public AbstractInterface logIntoSystem(String login, String password) {
+		if (manager.validatePassword(login, password)) {
+			int userType = manager.getUserType(login);
+			InterfaceBuilder builder;
 
-		login = this.getLogin();
-		password = this.getPassword();
-		if (connection.validatePassword(login, password)) {
-			UserFactory uFactory = new UserFactory();
-			InterfaceFactory iFactory = new InterfaceFactory();
-			
-			iFactory.createInterface(connection, uFactory.createUser(connection, login));
-			return true;
+			switch (userType) {
+			case 0:
+				builder = new AdminInterfaceBuilder(manager);
+			case 1:
+				builder = new ManagerInterfaceBuilder(manager);
+			case 2:
+				builder = new WorkerInterfaceBuilder(manager);
+			default:
+				builder = null;
+				;
+			}
+			if (builder != null) {
+				builder.buildMedia();
+				builder.buildInterface();
+				return builder.getBuiltInterface();
+			}
 		}
-		return false;
+		return null;
 	}
-
-	private String getLogin() {
-		String login = null;
-
-		return login;
-	}
-
-	private String getPassword() {
-		String password = null;
-
-		return password;
-	}
-
+	
 }

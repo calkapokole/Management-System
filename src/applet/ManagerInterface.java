@@ -1,15 +1,41 @@
 package applet;
 
-import database.*;
-import model.*;
+import model.MediaSimple;
+import model.WorkerFilter;
+import model.WorkersIteratorSimple;
+import database.DatabaseManager;
 
-public class ManagerInterface extends MyInterface {
-	private static final long serialVersionUID = 1L;
-	private Manager manager;
-	
-	public ManagerInterface(DatabaseConnection connection, User manager) {
-		super(connection);
-		this.manager = (Manager)manager;
+public class ManagerInterface extends AbstractInterface {
+	private MediaSimple m;
+
+	public ManagerInterface(DatabaseManager manager, MediaSimple m) {
+		super(manager);
+		this.m = m;
+	}
+
+	public WorkersIteratorSimple getIteator(WorkerFilter filter) {
+		return this.m.getIterator(filter);
+	}
+
+	public void addNewProject() {
+	}
+
+	public void alterProject() {
+	}
+
+	public void displayProjects() {
+	}
+
+	public void displayProjectInfo() {
+	}
+
+	public void displayWorkers() {
+	}
+
+	public void displayWorkerInfo() {
+	}
+
+	public void assignWorkerToProject() {
 	}
 
 }

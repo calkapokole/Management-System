@@ -1,15 +1,44 @@
 package applet;
 
-import database.*;
-import model.*;
+import database.DatabaseManager;
+import model.MediaAdvanced;
+import model.WorkerFilter;
+import model.WorkersIteratorAdvanced;
 
-public class AdminInterface extends MyInterface {
-	private static final long serialVersionUID = 1L;
-	private Admin user;
-	
-	public AdminInterface(DatabaseConnection connection, User admin) {
-		super(connection);
-		this.user = (Admin)admin;
+public class AdminInterface extends AbstractInterface {
+	private MediaAdvanced m;
+
+	public AdminInterface(DatabaseManager manager, MediaAdvanced m) {
+		super(manager);
+		this.m = m;
+	}
+
+	public WorkersIteratorAdvanced getIteator(WorkerFilter filter) {
+		return this.m.getIterator(filter);
+	}
+
+	public void addWorker() {
+	}
+
+	public void alterWorker() {
+	}
+
+	public void removeWorker() {
+	}
+
+	public void addManager() {
+	}
+
+	public void alterManager() {
+	}
+
+	public void removeManager() {
+	}
+
+	public void displayWorkers() {
+	}
+
+	public void displayManagers() {
 	}
 
 }
