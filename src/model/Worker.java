@@ -14,4 +14,12 @@ public class Worker extends User {
 				birthDate, employed);
 	}
 
+	public String toString() {
+		return "" + this.firstName + " " + this.lastName + " " + this.birthDate;
+	}
+
+	public String getDetailedInfo() {
+		return null;
+	}
+
 }

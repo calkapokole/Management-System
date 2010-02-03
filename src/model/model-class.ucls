@@ -1,0 +1,606 @@
+<class-diagram version="0.9.86" automaticImage="PNG" icons="true" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.Admin" project="Management-System" 
+    file="/Management-System/src/model/Admin.java" binary="false">    
+    <position x="176" y="254" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.Users" project="Management-System" 
+    file="/Management-System/src/model/Users.java" binary="false">    
+    <position x="477" y="66" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.Manager" project="Management-System" 
+    file="/Management-System/src/model/Manager.java" binary="false">    
+    <position x="546" y="254" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.Worker" project="Management-System" 
+    file="/Management-System/src/model/Worker.java" binary="false">    
+    <position x="922" y="254" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.BasicProgramistTasksHandler" project="Management-System" 
+    file="/Management-System/src/model/BasicProgramistTasksHandler.java" binary="false">    
+    <position x="2080" y="599" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.ProgramistTask" project="Management-System" 
+    file="/Management-System/src/model/ProgramistTask.java" binary="false">    
+    <position x="1828" y="1302" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.Project" project="Management-System" 
+    file="/Management-System/src/model/Project.java" binary="false">    
+    <position x="1456" y="488" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.RealProject" project="Management-System" 
+    file="/Management-System/src/model/RealProject.java" binary="false">    
+    <position x="1466" y="1043" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.TaskAssignmentHandler" project="Management-System" 
+    file="/Management-System/src/model/TaskAssignmentHandler.java" binary="false">    
+    <position x="2305" y="140" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.TaskFactory" project="Management-System" 
+    file="/Management-System/src/model/TaskFactory.java" binary="false">    
+    <position x="1959" y="875" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.GetRequirementsTaskExecutor" project="Management-System" 
+    file="/Management-System/src/model/GetRequirementsTaskExecutor.java" binary="false">    
+    <position x="1558" y="1697" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.ProxyProject" project="Management-System" 
+    file="/Management-System/src/model/ProxyProject.java" binary="false">    
+    <position x="1674" y="592" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.TaskAbstract" project="Management-System" 
+    file="/Management-System/src/model/TaskAbstract.java" binary="false">    
+    <position x="1792" y="923" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.TaskExecutorInterface" project="Management-System" 
+    file="/Management-System/src/model/TaskExecutorInterface.java" binary="false">    
+    <position x="1654" y="1310" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.SimpleCodingTaskExecutor" project="Management-System" 
+    file="/Management-System/src/model/SimpleCodingTaskExecutor.java" binary="false">    
+    <position x="1787" y="1697" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface corner="BOTTOM_RIGHT" language="java" name="model.ProjectInterface" project="Management-System" 
+    file="/Management-System/src/model/ProjectInterface.java" binary="false">    
+    <position x="1452" y="1454" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.AnalystTask" project="Management-System" 
+    file="/Management-System/src/model/AnalystTask.java" binary="false">    
+    <position x="1971" y="1302" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.AnalystAsignmentHandler" project="Management-System" 
+    file="/Management-System/src/model/AnalystAsignmentHandler.java" binary="false">    
+    <position x="2304" y="599" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.TaskFactoryAbstract" project="Management-System" 
+    file="/Management-System/src/model/TaskFactoryAbstract.java" binary="false">    
+    <position x="1914" y="416" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.AdvancedProgramistTasksHandler" project="Management-System" 
+    file="/Management-System/src/model/AdvancedProgramistTasksHandler.java" binary="false">    
+    <position x="2539" y="599" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.NoneState" project="Management-System" 
+    file="/Management-System/src/model/NoneState.java" binary="false">    
+    <position x="994" y="878" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.UserMachine" project="Management-System" 
+    file="/Management-System/src/model/UserMachine.java" binary="false">    
+    <position x="552" y="681" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration corner="BOTTOM_RIGHT" language="java" name="model.Permission" project="Management-System" 
+    file="/Management-System/src/model/Permission.java" binary="false">    
+    <position x="736" y="821" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration corner="BOTTOM_RIGHT" language="java" name="model.Priority" project="Management-System" 
+    file="/Management-System/src/model/Priority.java" binary="false">    
+    <position x="1067" y="678" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.None" project="Management-System" 
+    file="/Management-System/src/model/None.java" binary="false">    
+    <position x="902" y="696" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.InProgressState" project="Management-System" 
+    file="/Management-System/src/model/InProgressState.java" binary="false">    
+    <position x="713" y="1049" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.FinishedState" project="Management-System" 
+    file="/Management-System/src/model/FinishedState.java" binary="false">    
+    <position x="636" y="1220" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface corner="BOTTOM_RIGHT" language="java" name="model.State" project="Management-System" 
+    file="/Management-System/src/model/State.java" binary="false">    
+    <position x="913" y="1546" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.StateContext" project="Management-System" 
+    file="/Management-System/src/model/StateContext.java" binary="false">    
+    <position x="761" y="1391" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.User" project="Management-System" 
+    file="/Management-System/src/model/User.java" binary="false">    
+    <position x="209" y="750" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <dependency>    
+    <bendpoint x="798" y="1155"/>    
+    <source project="Management-System" name="model.InProgressState" 
+      file="/Management-System/src/model/InProgressState.java" binary="false"/>    
+    <target project="Management-System" name="model.StateContext" file="/Management-System/src/model/StateContext.java" 
+      binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="model.ProgramistTask" 
+      file="/Management-System/src/model/ProgramistTask.java" binary="false"/>    
+    <target project="Management-System" name="model.TaskAbstract" file="/Management-System/src/model/TaskAbstract.java" 
+      binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="Management-System" name="model.RealProject" file="/Management-System/src/model/RealProject.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Project" file="/Management-System/src/model/Project.java" 
+      binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="Management-System" name="model.SimpleCodingTaskExecutor" 
+      file="/Management-System/src/model/SimpleCodingTaskExecutor.java" binary="false"/>    
+    <target project="Management-System" name="model.TaskExecutorInterface" 
+      file="/Management-System/src/model/TaskExecutorInterface.java" binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="Management-System" name="model.NoneState" file="/Management-System/src/model/NoneState.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.None" file="/Management-System/src/model/None.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="Management-System" name="model.TaskAbstract" file="/Management-System/src/model/TaskAbstract.java" 
+      binary="false" navigable="false">      
+      <attribute name="imp"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.TaskExecutorInterface" 
+      file="/Management-System/src/model/TaskExecutorInterface.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="Management-System" name="model.Admin" file="/Management-System/src/model/Admin.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.User" file="/Management-System/src/model/User.java" binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="Management-System" name="model.AdvancedProgramistTasksHandler" 
+      file="/Management-System/src/model/AdvancedProgramistTasksHandler.java" binary="false"/>    
+    <target project="Management-System" name="model.TaskAssignmentHandler" 
+      file="/Management-System/src/model/TaskAssignmentHandler.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="Management-System" name="model.UserMachine" file="/Management-System/src/model/UserMachine.java" 
+      binary="false" navigable="false">      
+      <attribute name="user"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.User" file="/Management-System/src/model/User.java" binary="false" 
+      navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="Management-System" name="model.None" file="/Management-System/src/model/None.java" binary="false" 
+      navigable="false">      
+      <attribute name="self"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.None" file="/Management-System/src/model/None.java" binary="false" 
+      navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="model.RealProject" file="/Management-System/src/model/RealProject.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Priority" file="/Management-System/src/model/Priority.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="873" y="984"/>    
+    <bendpoint x="873" y="1155"/>    
+    <source project="Management-System" name="model.NoneState" file="/Management-System/src/model/NoneState.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.StateContext" file="/Management-System/src/model/StateContext.java" 
+      binary="false"/>  
+  </dependency>  
+  <realization>    
+    <bendpoint x="2333" y="982"/>    
+    <source project="Management-System" name="model.ProxyProject" file="/Management-System/src/model/ProxyProject.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.ProjectInterface" 
+      file="/Management-System/src/model/ProjectInterface.java" binary="false"/>  
+  </realization>  
+  <generalization>    
+    <source project="Management-System" name="model.AnalystAsignmentHandler" 
+      file="/Management-System/src/model/AnalystAsignmentHandler.java" binary="false"/>    
+    <target project="Management-System" name="model.TaskAssignmentHandler" 
+      file="/Management-System/src/model/TaskAssignmentHandler.java" binary="false"/>  
+  </generalization>  
+  <realization>    
+    <source project="Management-System" name="model.RealProject" file="/Management-System/src/model/RealProject.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.ProjectInterface" 
+      file="/Management-System/src/model/ProjectInterface.java" binary="false"/>  
+  </realization>  
+  <dependency>    
+    <source project="Management-System" name="model.ProjectInterface" 
+      file="/Management-System/src/model/ProjectInterface.java" binary="false"/>    
+    <target project="Management-System" name="model.Priority" file="/Management-System/src/model/Priority.java" 
+      binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="model.TaskFactory" file="/Management-System/src/model/TaskFactory.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.TaskFactoryAbstract" 
+      file="/Management-System/src/model/TaskFactoryAbstract.java" binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <source project="Management-System" name="model.Users" file="/Management-System/src/model/Users.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Worker" file="/Management-System/src/model/Worker.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="model.TaskFactoryAbstract" 
+      file="/Management-System/src/model/TaskFactoryAbstract.java" binary="false"/>    
+    <target project="Management-System" name="model.TaskAbstract" file="/Management-System/src/model/TaskAbstract.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="model.NoneState" file="/Management-System/src/model/NoneState.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.InProgressState" 
+      file="/Management-System/src/model/InProgressState.java" binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="model.AnalystTask" file="/Management-System/src/model/AnalystTask.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.TaskAbstract" file="/Management-System/src/model/TaskAbstract.java" 
+      binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="Management-System" name="model.User" file="/Management-System/src/model/User.java" binary="false" 
+      navigable="false">      
+      <attribute name="permissions"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="Management-System" name="model.Permission" file="/Management-System/src/model/Permission.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="Management-System" name="model.ProxyProject" file="/Management-System/src/model/ProxyProject.java" 
+      binary="false" navigable="false">      
+      <attribute name="project"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.RealProject" file="/Management-System/src/model/RealProject.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="model.Users" file="/Management-System/src/model/Users.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Manager" file="/Management-System/src/model/Manager.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="model.Users" file="/Management-System/src/model/Users.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Admin" file="/Management-System/src/model/Admin.java" 
+      binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="model.BasicProgramistTasksHandler" 
+      file="/Management-System/src/model/BasicProgramistTasksHandler.java" binary="false"/>    
+    <target project="Management-System" name="model.TaskAssignmentHandler" 
+      file="/Management-System/src/model/TaskAssignmentHandler.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="Management-System" name="model.ProxyProject" file="/Management-System/src/model/ProxyProject.java" 
+      binary="false" navigable="false">      
+      <attribute name="priority"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.Priority" file="/Management-System/src/model/Priority.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization>    
+    <bendpoint x="852" y="1155"/>    
+    <bendpoint x="852" y="1326"/>    
+    <source project="Management-System" name="model.InProgressState" 
+      file="/Management-System/src/model/InProgressState.java" binary="false"/>    
+    <target project="Management-System" name="model.State" file="/Management-System/src/model/State.java" 
+      binary="false"/>  
+  </realization>  
+  <dependency>    
+    <source project="Management-System" name="model.Users" file="/Management-System/src/model/Users.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Permission" file="/Management-System/src/model/Permission.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="model.Admin" file="/Management-System/src/model/Admin.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Permission" file="/Management-System/src/model/Permission.java" 
+      binary="false"/>  
+  </dependency>  
+  <association>    
+    <source project="Management-System" name="model.TaskAssignmentHandler" 
+      file="/Management-System/src/model/TaskAssignmentHandler.java" binary="false" navigable="false">      
+      <attribute name="successor"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.TaskAssignmentHandler" 
+      file="/Management-System/src/model/TaskAssignmentHandler.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="model.RealProject" file="/Management-System/src/model/RealProject.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.State" file="/Management-System/src/model/State.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="model.FinishedState" 
+      file="/Management-System/src/model/FinishedState.java" binary="false"/>    
+    <target project="Management-System" name="model.StateContext" file="/Management-System/src/model/StateContext.java" 
+      binary="false"/>  
+  </dependency>  
+  <realization>    
+    <bendpoint x="669" y="1326"/>    
+    <source project="Management-System" name="model.FinishedState" 
+      file="/Management-System/src/model/FinishedState.java" binary="false"/>    
+    <target project="Management-System" name="model.State" file="/Management-System/src/model/State.java" 
+      binary="false"/>  
+  </realization>  
+  <generalization>    
+    <source project="Management-System" name="model.Manager" file="/Management-System/src/model/Manager.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.User" file="/Management-System/src/model/User.java" binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <source project="Management-System" name="model.InProgressState" 
+      file="/Management-System/src/model/InProgressState.java" binary="false"/>    
+    <target project="Management-System" name="model.FinishedState" 
+      file="/Management-System/src/model/FinishedState.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="model.Project" file="/Management-System/src/model/Project.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.State" file="/Management-System/src/model/State.java" 
+      binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="model.GetRequirementsTaskExecutor" 
+      file="/Management-System/src/model/GetRequirementsTaskExecutor.java" binary="false"/>    
+    <target project="Management-System" name="model.TaskExecutorInterface" 
+      file="/Management-System/src/model/TaskExecutorInterface.java" binary="false"/>  
+  </generalization>  
+  <realization>    
+    <bendpoint x="894" y="984"/>    
+    <bendpoint x="894" y="1155"/>    
+    <bendpoint x="894" y="1326"/>    
+    <source project="Management-System" name="model.NoneState" file="/Management-System/src/model/NoneState.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.State" file="/Management-System/src/model/State.java" 
+      binary="false"/>  
+  </realization>  
+  <generalization>    
+    <source project="Management-System" name="model.Worker" file="/Management-System/src/model/Worker.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.User" file="/Management-System/src/model/User.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="Management-System" name="model.ProxyProject" file="/Management-System/src/model/ProxyProject.java" 
+      binary="false" navigable="false">      
+      <attribute name="state"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.State" file="/Management-System/src/model/State.java" binary="false" 
+      navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="Management-System" name="model.Project" file="/Management-System/src/model/Project.java" 
+      binary="false" navigable="false">      
+      <attribute name="priority"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.Priority" file="/Management-System/src/model/Priority.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="Management-System" name="model.Project" file="/Management-System/src/model/Project.java" 
+      binary="false" navigable="false">      
+      <attribute name="state"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.StateContext" file="/Management-System/src/model/StateContext.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="model.Manager" file="/Management-System/src/model/Manager.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Permission" file="/Management-System/src/model/Permission.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="model.TaskAssignmentHandler" 
+      file="/Management-System/src/model/TaskAssignmentHandler.java" binary="false"/>    
+    <target project="Management-System" name="model.Worker" file="/Management-System/src/model/Worker.java" 
+      binary="false"/>  
+  </dependency>  
+  <association>    
+    <source project="Management-System" name="model.TaskAbstract" file="/Management-System/src/model/TaskAbstract.java" 
+      binary="false" navigable="false">      
+      <attribute name="taskRunner"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.TaskExecutorInterface" 
+      file="/Management-System/src/model/TaskExecutorInterface.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="model.ProjectInterface" 
+      file="/Management-System/src/model/ProjectInterface.java" binary="false"/>    
+    <target project="Management-System" name="model.State" file="/Management-System/src/model/State.java" 
+      binary="false"/>  
+  </dependency>  
+  <association>    
+    <source project="Management-System" name="model.StateContext" file="/Management-System/src/model/StateContext.java" 
+      binary="false" navigable="false">      
+      <attribute name="myState"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.State" file="/Management-System/src/model/State.java" binary="false" 
+      navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="model.Worker" file="/Management-System/src/model/Worker.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Permission" file="/Management-System/src/model/Permission.java" 
+      binary="false"/>  
+  </dependency>  
+  <association>    
+    <source project="Management-System" name="model.TaskAbstract" file="/Management-System/src/model/TaskAbstract.java" 
+      binary="false" navigable="false">      
+      <attribute name="workers"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="Management-System" name="model.Worker" file="/Management-System/src/model/Worker.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" package="true" initial-value="true" signature="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

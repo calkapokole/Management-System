@@ -1,7 +1,7 @@
 package model;
 
 public class UserMachine {
-	private User user;
+	protected User user;
 	
 	public UserMachine(User user) {
 		this.user = user;

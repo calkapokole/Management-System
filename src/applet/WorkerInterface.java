@@ -18,9 +18,11 @@ public class WorkerInterface extends AbstractInterface {
 	}
 
 	public void displayProjects() {
+		// get info about active project from database and display them
 	}
 
 	public void displayTasks() {
+		// get info about active task that need to be done and display them
 	}
 
 }

@@ -4,10 +4,14 @@ import java.util.Calendar;
 import java.util.Date;
 
 public class RealProject extends Project implements ProjectInterface {
-	public RealProject(String name, Priority priority, State state, Date deadline) {
+	public RealProject() {
+	}
+
+	public RealProject(String name, Priority priority, State state,
+			Date deadline) {
 		super(name, priority, state, deadline);
 	}
-	
+
 	public String getName() {
 		return this.name;
 	}
@@ -47,11 +51,11 @@ public class RealProject extends Project implements ProjectInterface {
 	public void setState(State state) {
 		this.state.setState(state);
 	}
-	
+
 	public void nextState() {
 		state.next();
 	}
-	
+
 	public void prevState() {
 		state.prev();
 	}

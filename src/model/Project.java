@@ -21,7 +21,7 @@ public abstract class Project {
 		String description = "";
 		Date startDate = null;
 		Date finishDate = null;
-		
+
 		this.name = name;
 		this.companyName = companyName;
 		this.description = description;
@@ -31,6 +31,10 @@ public abstract class Project {
 		this.state = new StateContext();
 		this.state.setState(state);
 		this.finishDate = finishDate;
+	}
+
+	public String getDetailedInfo() {
+		return null;
 	}
 
 }

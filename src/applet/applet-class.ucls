@@ -1,0 +1,620 @@
+<class-diagram version="0.9.86" automaticImage="PNG" icons="true" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.AbstractInterface" project="Management-System" 
+    file="/Management-System/src/applet/AbstractInterface.java" binary="false">    
+    <position x="1190" y="336" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.InterfaceBuilder" project="Management-System" 
+    file="/Management-System/src/applet/InterfaceBuilder.java" binary="false">    
+    <position x="1187" y="197" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.MediaAdvanced" project="Management-System" 
+    file="/Management-System/src/model/MediaAdvanced.java" binary="false">    
+    <position x="1023" y="961" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.LoginInterface" project="Management-System" 
+    file="/Management-System/src/applet/LoginInterface.java" binary="false">    
+    <position x="1431" y="58" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.Media" project="Management-System" 
+    file="/Management-System/src/model/Media.java" binary="false">    
+    <position x="668" y="352" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.ManagerInterface" project="Management-System" 
+    file="/Management-System/src/applet/ManagerInterface.java" binary="false">    
+    <position x="483" y="571" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="database.DatabaseManager" project="Management-System" 
+    file="/Management-System/src/database/DatabaseManager.java" binary="false">    
+    <position x="1289" y="1220" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.WorkersIterator" project="Management-System" 
+    file="/Management-System/src/model/WorkersIterator.java" binary="false">    
+    <position x="741" y="499" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.ManagerInterfaceBuilder" project="Management-System" 
+    file="/Management-System/src/applet/ManagerInterfaceBuilder.java" binary="false">    
+    <position x="400" y="344" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.MediaManager" project="Management-System" 
+    file="/Management-System/src/model/MediaManager.java" binary="false">    
+    <position x="242" y="806" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.MediaSimple" project="Management-System" 
+    file="/Management-System/src/model/MediaSimple.java" binary="false">    
+    <position x="675" y="774" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.WorkerInterface" project="Management-System" 
+    file="/Management-System/src/applet/WorkerInterface.java" binary="false">    
+    <position x="1032" y="507" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.WorkersIteratorAdvanced" project="Management-System" 
+    file="/Management-System/src/model/WorkersIteratorAdvanced.java" binary="false">    
+    <position x="1041" y="790" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.WorkerFilter" project="Management-System" 
+    file="/Management-System/src/model/WorkerFilter.java" binary="false">    
+    <position x="796" y="1132" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.AdminInterfaceBuilder" project="Management-System" 
+    file="/Management-System/src/applet/AdminInterfaceBuilder.java" binary="false">    
+    <position x="1444" y="344" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.AdminInterface" project="Management-System" 
+    file="/Management-System/src/applet/AdminInterface.java" binary="false">    
+    <position x="1379" y="555" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="applet.WorkerInterfaceBuilder" project="Management-System" 
+    file="/Management-System/src/applet/WorkerInterfaceBuilder.java" binary="false">    
+    <position x="933" y="344" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="model.WorkersIteratorSimple" project="Management-System" 
+    file="/Management-System/src/model/WorkersIteratorSimple.java" binary="false">    
+    <position x="590" y="969" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <generalization>    
+    <bendpoint x="651" y="450"/>    
+    <source project="Management-System" name="model.MediaSimple" file="/Management-System/src/model/MediaSimple.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Media" file="/Management-System/src/model/Media.java" 
+      binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <bendpoint x="477" y="733"/>    
+    <bendpoint x="477" y="920"/>    
+    <source project="Management-System" name="applet.ManagerInterface" 
+      file="/Management-System/src/applet/ManagerInterface.java" binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <bendpoint x="893" y="733"/>    
+    <bendpoint x="872" y="450"/>    
+    <source project="Management-System" name="model.MediaAdvanced" 
+      file="/Management-System/src/model/MediaAdvanced.java" binary="false"/>    
+    <target project="Management-System" name="model.Media" file="/Management-System/src/model/Media.java" 
+      binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <bendpoint x="456" y="920"/>    
+    <source project="Management-System" name="model.MediaManager" file="/Management-System/src/model/MediaManager.java" 
+      binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="804" y="140"/>    
+    <source project="Management-System" name="applet.LoginInterface" 
+      file="/Management-System/src/applet/LoginInterface.java" binary="false"/>    
+    <target project="Management-System" name="applet.ManagerInterfaceBuilder" 
+      file="/Management-System/src/applet/ManagerInterfaceBuilder.java" binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="applet.AdminInterfaceBuilder" 
+      file="/Management-System/src/applet/AdminInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="applet.InterfaceBuilder" 
+      file="/Management-System/src/applet/InterfaceBuilder.java" binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <bendpoint x="703" y="920"/>    
+    <source project="Management-System" name="model.MediaSimple" file="/Management-System/src/model/MediaSimple.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.WorkerFilter" file="/Management-System/src/model/WorkerFilter.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="applet.AdminInterface" 
+      file="/Management-System/src/applet/AdminInterface.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkersIteratorAdvanced" 
+      file="/Management-System/src/model/WorkersIteratorAdvanced.java" binary="false"/>  
+  </dependency>  
+  <association>    
+    <bendpoint x="1212" y="450"/>    
+    <bendpoint x="1209" y="733"/>    
+    <source project="Management-System" name="applet.AdminInterfaceBuilder" 
+      file="/Management-System/src/applet/AdminInterfaceBuilder.java" binary="false" navigable="false">      
+      <attribute name="m"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.MediaAdvanced" 
+      file="/Management-System/src/model/MediaAdvanced.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <bendpoint x="498" y="733"/>    
+    <source project="Management-System" name="applet.ManagerInterface" 
+      file="/Management-System/src/applet/ManagerInterface.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkersIteratorSimple" 
+      file="/Management-System/src/model/WorkersIteratorSimple.java" binary="false"/>  
+  </dependency>  
+  <association>    
+    <bendpoint x="456" y="733"/>    
+    <bendpoint x="314" y="450"/>    
+    <source project="Management-System" name="model.WorkersIteratorSimple" 
+      file="/Management-System/src/model/WorkersIteratorSimple.java" binary="false" navigable="false">      
+      <attribute name="m"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.Media" file="/Management-System/src/model/Media.java" binary="false" 
+      navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <bendpoint x="830" y="450"/>    
+    <source project="Management-System" name="applet.WorkerInterfaceBuilder" 
+      file="/Management-System/src/applet/WorkerInterfaceBuilder.java" binary="false" navigable="false">      
+      <attribute name="m"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.MediaSimple" file="/Management-System/src/model/MediaSimple.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <bendpoint x="435" y="733"/>    
+    <bendpoint x="435" y="920"/>    
+    <source project="Management-System" name="applet.ManagerInterface" 
+      file="/Management-System/src/applet/ManagerInterface.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkerFilter" file="/Management-System/src/model/WorkerFilter.java" 
+      binary="false"/>  
+  </dependency>  
+  <association>    
+    <source project="Management-System" name="applet.ManagerInterface" 
+      file="/Management-System/src/applet/ManagerInterface.java" binary="false" navigable="false">      
+      <attribute name="m"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.MediaManager" file="/Management-System/src/model/MediaManager.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <bendpoint x="69" y="450"/>    
+    <bendpoint x="27" y="733"/>    
+    <bendpoint x="27" y="920"/>    
+    <source project="Management-System" name="model.Media" file="/Management-System/src/model/Media.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.WorkerFilter" file="/Management-System/src/model/WorkerFilter.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="1188" y="733"/>    
+    <bendpoint x="1188" y="920"/>    
+    <source project="Management-System" name="applet.WorkerInterface" 
+      file="/Management-System/src/applet/WorkerInterface.java" binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="applet.ManagerInterface" 
+      file="/Management-System/src/applet/ManagerInterface.java" binary="false"/>    
+    <target project="Management-System" name="applet.AbstractInterface" 
+      file="/Management-System/src/applet/AbstractInterface.java" binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <bendpoint x="872" y="733"/>    
+    <bendpoint x="837" y="920"/>    
+    <source project="Management-System" name="applet.WorkerInterface" 
+      file="/Management-System/src/applet/WorkerInterface.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkerFilter" file="/Management-System/src/model/WorkerFilter.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="applet.ManagerInterfaceBuilder" 
+      file="/Management-System/src/applet/ManagerInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="applet.ManagerInterface" 
+      file="/Management-System/src/applet/ManagerInterface.java" binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <bendpoint x="293" y="450"/>    
+    <source project="Management-System" name="model.MediaManager" file="/Management-System/src/model/MediaManager.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.Media" file="/Management-System/src/model/Media.java" 
+      binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <bendpoint x="1191" y="450"/>    
+    <bendpoint x="1251" y="733"/>    
+    <bendpoint x="1251" y="920"/>    
+    <source project="Management-System" name="applet.WorkerInterfaceBuilder" 
+      file="/Management-System/src/applet/WorkerInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <association>    
+    <source project="Management-System" name="model.MediaManager" file="/Management-System/src/model/MediaManager.java" 
+      binary="false" navigable="false">      
+      <attribute name="it"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.WorkersIteratorSimple" 
+      file="/Management-System/src/model/WorkersIteratorSimple.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="applet.AdminInterfaceBuilder" 
+      file="/Management-System/src/applet/AdminInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="applet.AdminInterface" 
+      file="/Management-System/src/applet/AdminInterface.java" binary="false"/>  
+  </dependency>  
+  <association>    
+    <bendpoint x="190" y="450"/>    
+    <source project="Management-System" name="applet.ManagerInterfaceBuilder" 
+      file="/Management-System/src/applet/ManagerInterfaceBuilder.java" binary="false" navigable="false">      
+      <attribute name="m"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.MediaManager" file="/Management-System/src/model/MediaManager.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="Management-System" name="applet.WorkerInterface" 
+      file="/Management-System/src/applet/WorkerInterface.java" binary="false" navigable="false">      
+      <attribute name="m"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.MediaSimple" file="/Management-System/src/model/MediaSimple.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <bendpoint x="1230" y="733"/>    
+    <source project="Management-System" name="applet.AdminInterface" 
+      file="/Management-System/src/applet/AdminInterface.java" binary="false" navigable="false">      
+      <attribute name="m"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.MediaAdvanced" 
+      file="/Management-System/src/model/MediaAdvanced.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <bendpoint x="1566" y="450"/>    
+    <bendpoint x="1566" y="733"/>    
+    <bendpoint x="1566" y="920"/>    
+    <source project="Management-System" name="applet.AdminInterfaceBuilder" 
+      file="/Management-System/src/applet/AdminInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="1057" y="140"/>    
+    <source project="Management-System" name="applet.LoginInterface" 
+      file="/Management-System/src/applet/LoginInterface.java" binary="false"/>    
+    <target project="Management-System" name="applet.WorkerInterfaceBuilder" 
+      file="/Management-System/src/applet/WorkerInterfaceBuilder.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="830" y="733"/>    
+    <source project="Management-System" name="applet.WorkerInterface" 
+      file="/Management-System/src/applet/WorkerInterface.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkersIteratorSimple" 
+      file="/Management-System/src/model/WorkersIteratorSimple.java" binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="applet.WorkerInterfaceBuilder" 
+      file="/Management-System/src/applet/WorkerInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="applet.InterfaceBuilder" 
+      file="/Management-System/src/applet/InterfaceBuilder.java" binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <bendpoint x="519" y="733"/>    
+    <source project="Management-System" name="model.WorkersIteratorSimple" 
+      file="/Management-System/src/model/WorkersIteratorSimple.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkersIterator" 
+      file="/Management-System/src/model/WorkersIterator.java" binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="Management-System" name="model.WorkersIteratorAdvanced" 
+      file="/Management-System/src/model/WorkersIteratorAdvanced.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkersIterator" 
+      file="/Management-System/src/model/WorkersIterator.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="Management-System" name="model.WorkersIteratorAdvanced" 
+      file="/Management-System/src/model/WorkersIteratorAdvanced.java" binary="false" navigable="false">      
+      <attribute name="m"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.MediaAdvanced" 
+      file="/Management-System/src/model/MediaAdvanced.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <bendpoint x="1587" y="295"/>    
+    <bendpoint x="1587" y="450"/>    
+    <bendpoint x="1587" y="733"/>    
+    <bendpoint x="1587" y="920"/>    
+    <source project="Management-System" name="applet.InterfaceBuilder" 
+      file="/Management-System/src/applet/InterfaceBuilder.java" binary="false" navigable="false">      
+      <attribute name="manager"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="model.Media" file="/Management-System/src/model/Media.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.WorkersIterator" 
+      file="/Management-System/src/model/WorkersIterator.java" binary="false"/>  
+  </dependency>  
+  <association>    
+    <bendpoint x="1288" y="1417"/>    
+    <bendpoint x="1459" y="1417"/>    
+    <bendpoint x="1459" y="1221"/>    
+    <source project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false" navigable="false">      
+      <attribute name="instance"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="Management-System" name="applet.ManagerInterfaceBuilder" 
+      file="/Management-System/src/applet/ManagerInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="applet.InterfaceBuilder" 
+      file="/Management-System/src/applet/InterfaceBuilder.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="Management-System" name="applet.InterfaceBuilder" 
+      file="/Management-System/src/applet/InterfaceBuilder.java" binary="false" navigable="false">      
+      <attribute name="i"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="applet.AbstractInterface" 
+      file="/Management-System/src/applet/AbstractInterface.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="applet.LoginInterface" 
+      file="/Management-System/src/applet/LoginInterface.java" binary="false"/>    
+    <target project="Management-System" name="applet.InterfaceBuilder" 
+      file="/Management-System/src/applet/InterfaceBuilder.java" binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="applet.WorkerInterface" 
+      file="/Management-System/src/applet/WorkerInterface.java" binary="false"/>    
+    <target project="Management-System" name="applet.AbstractInterface" 
+      file="/Management-System/src/applet/AbstractInterface.java" binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <bendpoint x="1317" y="140"/>    
+    <source project="Management-System" name="applet.LoginInterface" 
+      file="/Management-System/src/applet/LoginInterface.java" binary="false"/>    
+    <target project="Management-System" name="applet.AbstractInterface" 
+      file="/Management-System/src/applet/AbstractInterface.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="1338" y="140"/>    
+    <source project="Management-System" name="applet.LoginInterface" 
+      file="/Management-System/src/applet/LoginInterface.java" binary="false"/>    
+    <target project="Management-System" name="applet.AdminInterfaceBuilder" 
+      file="/Management-System/src/applet/AdminInterfaceBuilder.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="48" y="450"/>    
+    <bendpoint x="48" y="733"/>    
+    <bendpoint x="69" y="920"/>    
+    <source project="Management-System" name="applet.ManagerInterfaceBuilder" 
+      file="/Management-System/src/applet/ManagerInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="48" y="920"/>    
+    <source project="Management-System" name="model.MediaManager" file="/Management-System/src/model/MediaManager.java" 
+      binary="false"/>    
+    <target project="Management-System" name="model.WorkerFilter" file="/Management-System/src/model/WorkerFilter.java" 
+      binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <bendpoint x="816" y="920"/>    
+    <source project="Management-System" name="model.MediaSimple" file="/Management-System/src/model/MediaSimple.java" 
+      binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <generalization>    
+    <source project="Management-System" name="applet.AdminInterface" 
+      file="/Management-System/src/applet/AdminInterface.java" binary="false"/>    
+    <target project="Management-System" name="applet.AbstractInterface" 
+      file="/Management-System/src/applet/AbstractInterface.java" binary="false"/>  
+  </generalization>  
+  <dependency>    
+    <bendpoint x="1272" y="733"/>    
+    <bendpoint x="1230" y="920"/>    
+    <source project="Management-System" name="applet.AdminInterface" 
+      file="/Management-System/src/applet/AdminInterface.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkerFilter" file="/Management-System/src/model/WorkerFilter.java" 
+      binary="false"/>  
+  </dependency>  
+  <association>    
+    <source project="Management-System" name="model.MediaSimple" file="/Management-System/src/model/MediaSimple.java" 
+      binary="false" navigable="false">      
+      <attribute name="it"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.WorkersIteratorSimple" 
+      file="/Management-System/src/model/WorkersIteratorSimple.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <bendpoint x="851" y="450"/>    
+    <bendpoint x="851" y="733"/>    
+    <bendpoint x="858" y="920"/>    
+    <source project="Management-System" name="model.Media" file="/Management-System/src/model/Media.java" binary="false" 
+      navigable="false">      
+      <attribute name="manager"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <bendpoint x="1608" y="140"/>    
+    <bendpoint x="1608" y="295"/>    
+    <bendpoint x="1608" y="450"/>    
+    <bendpoint x="1608" y="733"/>    
+    <bendpoint x="1608" y="920"/>    
+    <source project="Management-System" name="applet.LoginInterface" 
+      file="/Management-System/src/applet/LoginInterface.java" binary="false" navigable="false">      
+      <attribute name="manager"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <bendpoint x="1293" y="733"/>    
+    <bendpoint x="1293" y="920"/>    
+    <source project="Management-System" name="applet.AdminInterface" 
+      file="/Management-System/src/applet/AdminInterface.java" binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="applet.WorkerInterfaceBuilder" 
+      file="/Management-System/src/applet/WorkerInterfaceBuilder.java" binary="false"/>    
+    <target project="Management-System" name="applet.WorkerInterface" 
+      file="/Management-System/src/applet/WorkerInterface.java" binary="false"/>  
+  </dependency>  
+  <association>    
+    <bendpoint x="1545" y="450"/>    
+    <bendpoint x="1545" y="733"/>    
+    <bendpoint x="1545" y="920"/>    
+    <source project="Management-System" name="applet.AbstractInterface" 
+      file="/Management-System/src/applet/AbstractInterface.java" binary="false" navigable="false">      
+      <attribute name="manager"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency>    
+    <source project="Management-System" name="model.MediaAdvanced" 
+      file="/Management-System/src/model/MediaAdvanced.java" binary="false"/>    
+    <target project="Management-System" name="database.DatabaseManager" 
+      file="/Management-System/src/database/DatabaseManager.java" binary="false"/>  
+  </dependency>  
+  <dependency>    
+    <source project="Management-System" name="model.MediaAdvanced" 
+      file="/Management-System/src/model/MediaAdvanced.java" binary="false"/>    
+    <target project="Management-System" name="model.WorkerFilter" file="/Management-System/src/model/WorkerFilter.java" 
+      binary="false"/>  
+  </dependency>  
+  <association>    
+    <source project="Management-System" name="model.MediaAdvanced" 
+      file="/Management-System/src/model/MediaAdvanced.java" binary="false" navigable="false">      
+      <attribute name="it"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="Management-System" name="model.WorkersIteratorAdvanced" 
+      file="/Management-System/src/model/WorkersIteratorAdvanced.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" package="true" initial-value="true" signature="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

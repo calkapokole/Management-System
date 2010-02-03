@@ -1,9 +1,9 @@
 package model;
 
 public class WorkersIteratorSimple extends WorkersIterator {
-	MediaSimple m;
+	Media m;
 	
-	public WorkersIteratorSimple(MediaSimple m) {
+	public WorkersIteratorSimple(Media m) {
 		this.m = m;
 	}
 

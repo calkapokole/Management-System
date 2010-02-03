@@ -15,6 +15,6 @@ public class WorkerInterfaceBuilder extends InterfaceBuilder {
 	}
 
 	protected void buildInterface() {
-		this.i = new ManagerInterface(this.manager, this.m);
+		this.i = new WorkerInterface(this.manager, this.m);
 	}
 }
